@@ -1,0 +1,1 @@
+scss --watch index.scss:index.css

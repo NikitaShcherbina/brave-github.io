@@ -1,0 +1,1 @@
+scss --watch thanks.scss:thanks.css

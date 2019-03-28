@@ -1,0 +1,1 @@
+scss --watch 404.scss:404.css

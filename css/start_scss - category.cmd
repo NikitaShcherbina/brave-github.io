@@ -1,0 +1,1 @@
+scss --watch category.scss:category.css
